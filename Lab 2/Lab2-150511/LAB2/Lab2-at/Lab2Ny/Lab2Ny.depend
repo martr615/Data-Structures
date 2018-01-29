@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1431330601 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1431330061 c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\hashtable.h
+	"item.h"
+	<iostream>
+
+1426290814 c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1426183168 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\item.cpp
+	"Item.h"
+
+1431331050 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\word.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	"hashTable.h"
+

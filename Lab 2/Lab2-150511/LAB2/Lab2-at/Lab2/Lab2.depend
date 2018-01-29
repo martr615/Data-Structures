@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1430905351 source:h:\tnd004\lab2-\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1430903990 h:\tnd004\lab2-\hashtable.h
+	"item.h"
+	<iostream>
+
+1426287214 h:\tnd004\lab2-\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1426179568 source:h:\tnd004\lab2-\item.cpp
+	"Item.h"
+
+1429260124 source:h:\tnd004\lab2-\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1426183168 source:f:\saved files\mt\tnd004\lab2-\item.cpp
+	"Item.h"
+
+1426290814 f:\saved files\mt\tnd004\lab2-\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1430908960 source:f:\saved files\mt\tnd004\lab2-\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1431279756 f:\saved files\mt\tnd004\lab2-\hashtable.h
+	"item.h"
+	<iostream>
+
+1431279822 source:f:\saved files\mt\tnd004\lab2-\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1431279946 source:f:\saved files\mt\tnd004\lab2-\word.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	"hashTable.h"
+
+1424886646 source:f:\saved files\mt\tnd004\lab2-\collisions.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<random>
+
+1426183168 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\item.cpp
+	"Item.h"
+
+1426290814 c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1431326569 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\word.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	"hashTable.h"
+
+1431325779 c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\hashtable.h
+	"item.h"
+	<iostream>
+
+1431328431 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1430905360 source:c:\users\tobias\desktop\projekt\mt\tnd004\lab2-\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+

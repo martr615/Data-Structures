@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1431348072 source:h:\tnd004\lab3-\biiterator.cpp
+	"BiIterator.h"
+
+1428489710 h:\tnd004\lab3-\biiterator.h
+	<iostream>
+	"node.h"
+
+1428500270 h:\tnd004\lab3-\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1431345987 source:h:\tnd004\lab3-\node.cpp
+	"node.h"
+
+1431347290 source:h:\tnd004\lab3-\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+
+1428497140 h:\tnd004\lab3-\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1431348055 source:h:\tnd004\lab3-\thread_bst.cpp
+	"threaded_BST.h"
+
+1431958350 source:f:\saved files\mt\tnd004\lab3-\node.cpp
+	"node.h"
+
+1428503870 f:\saved files\mt\tnd004\lab3-\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1431958514 source:f:\saved files\mt\tnd004\lab3-\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+
+1428500740 f:\saved files\mt\tnd004\lab3-\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1428493310 f:\saved files\mt\tnd004\lab3-\biiterator.h
+	<iostream>
+	"node.h"
+
+1431959080 source:f:\saved files\mt\tnd004\lab3-\thread_bst.cpp
+	"threaded_BST.h"
+
+1431957727 source:f:\saved files\mt\tnd004\lab3-\biiterator.cpp
+	"BiIterator.h"
+
+1432048209 source:h:\tnd004\lab3\biiterator.cpp
+	"BiIterator.h"
+
+1428457310 h:\tnd004\lab3\biiterator.h
+	<iostream>
+	"node.h"
+
+1428467870 h:\tnd004\lab3\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1432048180 source:h:\tnd004\lab3\node.cpp
+	"node.h"
+
+1432048226 source:h:\tnd004\lab3\thread_bst.cpp
+	"threaded_BST.h"
+
+1428464740 h:\tnd004\lab3\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1432047460 source:h:\tnd004\lab3\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+
+1432048209 source:h:\tnd004\lab3 - 20150519\biiterator.cpp
+	"BiIterator.h"
+
+1428457310 h:\tnd004\lab3 - 20150519\biiterator.h
+	<iostream>
+	"node.h"
+
+1428467870 h:\tnd004\lab3 - 20150519\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1432109318 source:h:\tnd004\lab3 - 20150519\node.cpp
+	"node.h"
+
+1432106377 source:h:\tnd004\lab3 - 20150519\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+
+1428464740 h:\tnd004\lab3 - 20150519\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1432109328 source:h:\tnd004\lab3 - 20150519\thread_bst.cpp
+	"threaded_BST.h"
+
+1432109978 source:c:\users\martin\desktop\lab3 - 20150521\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+
+1428468340 c:\users\martin\desktop\lab3 - 20150521\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1428471470 c:\users\martin\desktop\lab3 - 20150521\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1428460910 c:\users\martin\desktop\lab3 - 20150521\biiterator.h
+	<iostream>
+	"node.h"
+
+1432112930 source:c:\users\martin\desktop\lab3 - 20150521\thread_bst.cpp
+	"threaded_BST.h"
+
+1432073978 source:h:\tnd004\lab3 - 20150521-ny\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+
+1428432340 h:\tnd004\lab3 - 20150521-ny\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1428435470 h:\tnd004\lab3 - 20150521-ny\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1428424910 h:\tnd004\lab3 - 20150521-ny\biiterator.h
+	<iostream>
+	"node.h"
+
+1432076930 source:h:\tnd004\lab3 - 20150521-ny\thread_bst.cpp
+	"threaded_BST.h"
+
+1432211928 source:h:\tnd004\lab3 - 20150521-ny\biiterator.cpp
+	"BiIterator.h"
+

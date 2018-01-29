@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1432726451 source:h:\tnd004\lab4\code4b\dsets.cpp
+	<iostream>
+	<iomanip>
+	<cassert>
+	"dsets.h"
+
+1398939260 h:\tnd004\lab4\code4b\dsets.h
+
+1398939180 source:h:\tnd004\lab4\code4b\edge.cpp
+	<iostream>
+	<iomanip>
+	"edge.h"
+
+1398939146 h:\tnd004\lab4\code4b\edge.h
+	<utility>
+
+1432725285 source:h:\tnd004\lab4\code4b\graph.cpp
+	<iostream>
+	<iomanip>
+	<cassert>
+	"graph.h"
+	"edge.h"
+	"heap.h"
+	"dsets.h"
+
+1398939354 h:\tnd004\lab4\code4b\graph.h
+	"list.h"
+
+1398938894 h:\tnd004\lab4\code4b\list.h
+
+1398939066 h:\tnd004\lab4\code4b\heap.h
+	<cassert>
+
+1398939016 source:h:\tnd004\lab4\code4b\list.cpp
+	<iostream>
+	<iomanip>
+	"list.h"
+
+1398939450 source:h:\tnd004\lab4\code4b\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"graph.h"
+

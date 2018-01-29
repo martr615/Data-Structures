@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1432203349 source:c:\users\martin\desktop\lab3 - 20150521\lab3ex2\biiterator.cpp
+	"BiIterator.h"
+
+1428460910 c:\users\martin\desktop\lab3 - 20150521\lab3ex2\biiterator.h
+	<iostream>
+	"node.h"
+
+1428471470 c:\users\martin\desktop\lab3 - 20150521\lab3ex2\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1432119578 source:c:\users\martin\desktop\lab3 - 20150521\lab3ex2\node.cpp
+	"node.h"
+
+1432112930 source:c:\users\martin\desktop\lab3 - 20150521\lab3ex2\thread_bst.cpp
+	"threaded_BST.h"
+
+1428468340 c:\users\martin\desktop\lab3 - 20150521\lab3ex2\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1432207314 source:c:\users\martin\desktop\lab3 - 20150521\lab3ex2\main.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+
+1432218875 source:h:\tnd004\lab3 - 20150521-ny\lab3ex2\biiterator.cpp
+	"BiIterator.h"
+
+1428424910 h:\tnd004\lab3 - 20150521-ny\lab3ex2\biiterator.h
+	<iostream>
+	"node.h"
+
+1428435470 h:\tnd004\lab3 - 20150521-ny\lab3ex2\node.h
+	<iostream>
+	<string>
+	<utility>
+
+1432215747 source:h:\tnd004\lab3 - 20150521-ny\lab3ex2\node.cpp
+	"node.h"
+
+1432213102 source:h:\tnd004\lab3 - 20150521-ny\lab3ex2\thread_bst.cpp
+	"threaded_BST.h"
+
+1428432340 h:\tnd004\lab3 - 20150521-ny\lab3ex2\threaded_bst.h
+	"node.h"
+	"BiIterator.h"
+	<iostream>
+
+1432216773 source:h:\tnd004\lab3 - 20150521-ny\lab3ex2\main.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<string>
+	<fstream>
+	<vector>
+
+1432073978 source:h:\tnd004\lab3 - 20150521-ny\lab3ex2\test1.cpp
+	"threaded_BST.h"
+	"BiIterator.h"
+	<iostream>
+	<iomanip>
+

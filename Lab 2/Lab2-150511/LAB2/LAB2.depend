@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1429631371 source:h:\tnd004\lab 2\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1429624647 h:\tnd004\lab 2\hashtable.h
+	"item.h"
+	<iostream>
+
+1426283614 h:\tnd004\lab 2\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1426175968 source:h:\tnd004\lab 2\item.cpp
+	"Item.h"
+
+1426282952 source:h:\tnd004\lab 2\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1430732418 source:c:\users\jinwoo.arsle\desktop\lab2 datastruktur\item.cpp
+	"Item.h"
+
+1430732418 c:\users\jinwoo.arsle\desktop\lab2 datastruktur\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1430732418 source:c:\users\jinwoo.arsle\desktop\lab2 datastruktur\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1430732418 c:\users\jinwoo.arsle\desktop\lab2 datastruktur\hashtable.h
+	"item.h"
+	<iostream>
+
+1430728820 source:h:\tnd004\lab2\item.cpp
+	"Item.h"
+
+1430728820 h:\tnd004\lab2\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1430728820 source:h:\tnd004\lab2\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1430903482 h:\tnd004\lab2\hashtable.h
+	"item.h"
+	<iostream>
+
+1430903885 source:h:\tnd004\lab2\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1430732420 source:c:\users\martin\desktop\lab2\item.cpp
+	"Item.h"
+
+1430732420 c:\users\martin\desktop\lab2\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1431331477 source:c:\users\martin\desktop\lab2\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1431009506 c:\users\martin\desktop\lab2\hashtable.h
+	"item.h"
+	<iostream>
+
+1431334341 source:c:\users\martin\desktop\lab2\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	"hashTable.h"
+
+1430728820 source:h:\tnd004\lab2-150511\item.cpp
+	"Item.h"
+
+1430728820 h:\tnd004\lab2-150511\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<new>
+
+1431343323 source:h:\tnd004\lab2-150511\test.cpp
+	<iostream>
+	<string>
+	"hashTable.h"
+
+1431345505 h:\tnd004\lab2-150511\hashtable.h
+	"item.h"
+	<iostream>
+
+1431351263 source:h:\tnd004\lab2-150511\hashtable.cpp
+	<assert.h>
+	<iomanip>
+	<fstream>
+	"hashTable.h"
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1427797541 source:h:\tnd004\lab 1\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<cctype>
+	"set.cpp"
+
+1427798554 h:\tnd004\lab 1\set.cpp
+	<iostream>
+	<new>
+	<cassert>
+
+1427797181 source:h:\tnd004\lab 1\set.cpp
+	<iostream>
+	<new>
+	<cassert>
+
+1429181305 source:c:\users\jinwoo.arsle\desktop\datatruktur lab 1\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<cctype>
+	"set.cpp"
+
+1429188388 c:\users\jinwoo.arsle\desktop\datatruktur lab 1\set.cpp
+	<iostream>
+	<new>
+	<cassert>
+
+1429188388 source:c:\users\jinwoo.arsle\desktop\datatruktur lab 1\set.cpp
+	<iostream>
+	<new>
+	<cassert>
+
+1429177706 source:h:\tnd004\lab 1\lab1_150417\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<cctype>
+	"set.cpp"
+
+1429280743 h:\tnd004\lab 1\lab1_150417\set.cpp
+	<iostream>
+	<new>
+	<cassert>
+
+1429279523 source:h:\tnd004\lab 1\lab1_150417\set.cpp
+	<iostream>
+	<new>
+	<cassert>
+
